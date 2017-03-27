@@ -1,6 +1,9 @@
 # TextViewClock
 时间控件，显示时分，中间”：”跳动
 
+## 效果图
+![](https://raw.githubusercontent.com/loonggg/TextViewClock/master/img/ddd.gif)
+
 ## 使用方法
 
 ## gradle
