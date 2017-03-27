@@ -18,7 +18,7 @@ Add it in your root build.gradle at the end of repositories:
 ### Step 2. Add the dependency
 ```java
 	dependencies {
-	    compile 'com.github.loonggg:TextViewClock:v1.0'
+	    compile 'com.github.loonggg:TextViewClock:1.1'
 	}
  ```
  
