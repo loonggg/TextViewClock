@@ -15,6 +15,7 @@
         android:id="@+id/tvc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
         android:gravity="center"
         app:clockTextSize="30sp"
         app:space="18dp" />

@@ -38,9 +38,14 @@ Add it in your root build.gradle at the end of repositories:
 	<dependency>
 	    <groupId>com.github.loonggg</groupId>
 	    <artifactId>TextViewClock</artifactId>
-	    <version>v1.0</version>
+	    <version>1.1</version>
 	</dependency>
 ```
+
+### Step 3. There are a few xml attributes to customise the calendar
+* clockTextSize 设置时间字体大小
+* clockTextColor 设置时间字体颜色
+* space 设置时间，时，分和冒号之间间距大小
 
 #### Example
 ```xml
@@ -67,7 +72,7 @@ Add it in your root build.gradle at the end of repositories:
 </RelativeLayout>
 ```
 
-### Step 3. TextViewClock concrete use 
+### Step 4. TextViewClock concrete use 
 ```java
 public class MainActivity extends AppCompatActivity {
     private TextViewClock tvc;
